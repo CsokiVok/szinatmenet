@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+#szinbox {
+  width: 75%;
+  height: 100px;
+  margin-top: 20px;
+  background: linear-gradient(to right, #ff0000, #0000ff);
+}
